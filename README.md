@@ -1,7 +1,7 @@
 # Hey there cutie!!!
 Welcome to my lil corner of the internet. A bit about me and my code: i'm currently working on harnessing agent based modelling in computational social sciences research to understand how information spreads through dynamic human networks and how ai agents influence the rate of information spread and polarisation. 
 
-<br><br>I'm passionate about:<br>•⁠  ⁠Modelling human group and social dynamics <br>•⁠  ⁠Human-AI interaction & emotional dynamics  <br>•⁠  ⁠Agent-based modelling with LLMs<br>•⁠  ⁠Developmental psychology approaches to AI training<br>•⁠  ⁠AI welfare & ethics<br>-> really anything at the intersection of social psychology and computer science<br><br>Currently learning: NormAN model for agent based modelling; also Strudel for live coding;<br><br>Fun fact: I do stand up comedy and have a bernese mountain dog <br>
+<br><br>I'm passionate about:<br>•⁠  ⁠Modelling human group and social dynamics <br>•⁠  ⁠Human-AI interaction & emotional dynamics  <br>•⁠  ⁠Agent-based modelling with LLMs<br>•⁠  ⁠Developmental psychology approaches to AI training<br>•⁠  ⁠AI welfare & ethics<br>-> really anything at the intersection of social psychology and computer science<br><br>I'm currently learning about the NormAN model for agent based modelling and using NetLogo; also learning Strudel for live coding;<br><br>Most people don't know this about me, but I also do standup comedy and have a big ass dog (Moose, Bernese Mountain Dog that I would literally die for) <br>
 
 
 ## Socials:
