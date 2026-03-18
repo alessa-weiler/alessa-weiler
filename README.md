@@ -1,6 +1,8 @@
 # Hey there cutie!!!
 Welcome to my lil corner of the internet. A bit about me and my code: i'm currently working on harnessing agent based modelling in computational social sciences research to understand how information spreads through dynamic human networks and how ai agents influence the rate of information spread and polarisation. 
 
+check out my personal website: https://alessa-weiler.github.io/home/
+
 <br><br>I'm passionate about:<br>•⁠  ⁠Modelling human group and social dynamics <br>•⁠  ⁠Human-AI interaction & emotional dynamics  <br>•⁠  ⁠Agent-based modelling with LLMs<br>•⁠  ⁠Developmental psychology approaches to AI training<br>•⁠  ⁠AI welfare & ethics<br>-> really anything at the intersection of social psychology and computer science<br><br>I'm currently learning about the NormAN model for agent based modelling and using NetLogo; also learning Strudel for live coding;<br><br>Most people don't know this about me, but I also do standup comedy and have a big ass dog (Moose, Bernese Mountain Dog that I would literally die for) <br>
 
 
@@ -14,4 +16,3 @@ Welcome to my lil corner of the internet. A bit about me and my code: i'm curren
 ![](https://nirzak-streak-stats.vercel.app/?user=alessa-weiler&theme=moltack&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessa-weiler&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
